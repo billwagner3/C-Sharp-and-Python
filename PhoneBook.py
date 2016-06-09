@@ -67,9 +67,9 @@ def makeWindow():
     b2 = ttk.Button(frame2,text="Update",command=updateEntry)
     b3 = ttk.Button(frame2,text="Delete",command=deleteEntry)
     b4 = ttk.Button(frame2,text=" Load ",command=loadEntry)
-    b5 = ttk.Button(frame2, text=" Save ",command=saveEntry)
+    #b5 = ttk.Button(frame2, text=" Save ",command=saveEntry)
     b1.pack(side=LEFT); b2.pack(side=LEFT)
-    b3.pack(side=LEFT); b4.pack(side=LEFT); b5.pack(side=LEFT)
+    b3.pack(side=LEFT); b4.pack(side=LEFT); #b5.pack(side=LEFT)
 
     frame3 = Frame(win)       # select of names
     frame3.pack()
