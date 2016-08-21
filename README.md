@@ -1,4 +1,4 @@
-# PythonUploads
+# Uploads
 These are some of the Python Projects I have worked on.
 
 1. Web_Transfer_GUI.py is a file transfer program that transfers files to another location that are newer than 24 hours old. 
