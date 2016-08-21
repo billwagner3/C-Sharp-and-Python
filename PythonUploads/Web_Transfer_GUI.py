@@ -6,7 +6,7 @@ import sqlite3
 
 conn = sqlite3.connect('content_storage.db')
 web_Gui = Tk()
-
+ 
 #create table
 def database_Table():
     conn.execute("CREATE TABLE if not exists \
