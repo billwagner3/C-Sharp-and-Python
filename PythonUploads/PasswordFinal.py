@@ -72,7 +72,7 @@ def db_lookup():
 		for item in search:
 			list1.insert(END, item[0], item[1], item[2], item[3])
 		print(search)
-
+ 
 
 def db_to_gui():
 	with conn:
