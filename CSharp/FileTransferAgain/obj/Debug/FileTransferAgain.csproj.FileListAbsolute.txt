@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\bin\Debug\FileTransferAgain.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\bin\Debug\FileTransferAgain.exe
+c:\users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\bin\Debug\FileTransferAgain.pdb
+c:\users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\obj\Debug\FileTransferAgain.exe
+c:\users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\obj\Debug\FileTransferAgain.pdb
+C:\Users\owner\documents\visual studio 2015\Projects\FileTransferAgain\FileTransferAgain\obj\Debug\FileTransferAgain.csprojResolveAssemblyReference.cache
